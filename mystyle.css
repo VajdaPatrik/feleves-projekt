@@ -1,24 +1,20 @@
-<<<<<<< head
-
 body {
-    background-color: lightblue;
+  background-color: lightblue;
+}
+
+#paral {
+ 
+  color: red;
   }
-
-  #paral {
-   
-    color: red;
-    }
-    .center {
-        
-        color: red;
-        }
-
-p1 {
+  .center {
       
       color: red;
-            }
-             th, td {
-                border: 3px solid black
-            }
-=======
->>>>>>> parent of 234d5c9 (01 09)
+      }
+
+p1 {
+    
+    color: red;
+          }
+           th, td {
+              border: 3px solid black
+          }
