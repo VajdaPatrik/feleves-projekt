@@ -1,20 +1,29 @@
-body {
-  background-color: lightblue;
-}
 
-#paral {
- 
-  color: red;
+body {
+    background-color: lightblue;
   }
-  .center {
-      
-      color: red;
-      }
+
+  #paral {
+   
+    color: red;
+    }
+    .center {
+        
+        color: red;
+        }
 
 p1 {
-    
-    color: red;
-          }
-           th, td {
-              border: 3px solid black
-          }
+      
+      color: red;
+            }
+             th, td {
+                border: 3px solid black
+            }
+
+            div {
+                padding-top: 50px;
+                padding-right: 30px;
+                padding-bottom: 50px;
+                padding-left: 80px;
+              }
+              
