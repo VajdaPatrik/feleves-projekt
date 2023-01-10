@@ -46,7 +46,7 @@ p1 {
             .menu1{
               border: 2px solid black;
               padding: 0;
-              margin: 0;
+              margin: 10px;
               text-align: center;
               font-size: xx-large;
               background-image: url(letöltés.jpg);
@@ -56,7 +56,7 @@ p1 {
               text-align: center;
               
             }
-            .a{
+            a{
               color:black;
               text-decoration: none;
               text-transform: uppercase;
