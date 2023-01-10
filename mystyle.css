@@ -9,3 +9,9 @@ table, th, td {
 body {
     background-color: lightblue;
   }
+
+  #paral {
+    text-align: center;
+    color: red;
+    }
+  
