@@ -43,3 +43,15 @@ p1 {
               font-size: larger;
               color: midnightblue;
             }
+            .menu1{
+              border: 2px solid black;
+              padding: 30px;
+              text-align: center;
+              font-size: xx-large;
+              background-image: url(letöltés.jpg);
+              
+            }
+            h1{
+              text-align: center;
+              
+            }
