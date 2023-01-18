@@ -1,64 +1,65 @@
 
 body {
-    background-color: lightblue;
+  background-color: lightblue;
+}
+
+#paral {
+ 
+  color: red;
   }
-
-  #paral {
-   
-    color: red;
-    }
-    .center {
-        
-        color: red;
-        }
-
-p1 {
+  .center {
       
       color: red;
-            }
-             th, td {
-                border: 3px solid black
+      }
+
+p1 {
+    
+    color: red;
+          }
+           th, td {
+              border: 3px solid black
+          }
+
+          div {
+              border: solid 5px red;
+              padding-top: 50px;
+              padding-right: 30px;
+              padding-bottom: 50px;
+              padding-left: 280px;
             }
 
-            div {
-                border: solid 5px red;
-                padding-top: 50px;
-                padding-right: 30px;
-                padding-bottom: 50px;
-                padding-left: 280px;
+            #modric {
+ 
+              color: red;
               }
-
-              #modric {
-   
-                color: red;
-                }
-                .horvat {
-                    
-                    color: whitesmoke;
-                    }
-                .Messi{
-                  font-size: large;
-                }   
-            .fran{
-              font-size: larger;
-              color: midnightblue;
-            }
-            .menu1{
-              border: 2px solid black;
-              padding: 30px;
-              text-align: center;
-              font-size: xx-large;
-              background-image: url(letöltés.jpg);
-              
-            }
-            h1{
-              text-align: center;
-              
-            }
-
-            a {
-                color:red;
-                text-decoration:red;
-                text-transform: uppercase;
-                letter-spacing: 4px;
-              }
+              .horvat {
+                  
+                  color: whitesmoke;
+                  }
+              .Messi{
+                font-size: large;
+              }   
+          .fran{
+            font-size: larger;
+            color: midnightblue;
+          }
+          .menu1{
+            border: 2px solid black;
+            padding: 30px;
+            margin: 10px;
+            text-align: center;
+            font-size: xx-large;
+            background-image: url(letöltés.jpg);
+            
+          }
+          h1{
+            text-align: center;
+            
+          }
+          a{
+            color: red;
+            text-decoration: none;
+      text-transform: uppercase;
+            letter-spacing: 4px;
+           
+          }
